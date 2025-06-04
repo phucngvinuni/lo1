@@ -1,0 +1,4 @@
+Average PSNR: 55.8804
+Average SSIM: 0.0061
+Average L1 Loss: 85.3026
+n

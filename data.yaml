@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['plectropomus-leopardus']
+
+roboflow:
+  workspace: unsoed-murea
+  project: plectropomus-leopardus
+  version: 2
+  license: Public Domain
+  url: https://universe.roboflow.com/unsoed-murea/plectropomus-leopardus/dataset/2
